@@ -13,4 +13,4 @@ python3 main.py <filename> <dup>
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
 
 ## Nuevo Archivo
-Se añadio un nuevo archivo **ejercicio01.md**
+Se añadio un nuevo archivo **ejercicio01.md**.
